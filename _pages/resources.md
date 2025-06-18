@@ -18,11 +18,11 @@ Key Takeaways:
 
 ---
 
-Jump To: [Practice & Project](#1-practice--projects){: .notice} 
-[Tools & Technologies](#2-tools--technologies){: .notice} 
-[Real-World Experience](#3-experiential-learning){: .notice} 
-[Career Planning](#4-career-planning--strategy){: .notice} 
-[Graduate School](#5-graduate-school){: .notice} 
+Jump To: [Projects](#1-practice--projects){: .notice} 
+[Tools](#2-tools--technologies){: .notice} 
+[Experience](#3-experiential-learning){: .notice} 
+[Career](#4-career-planning--strategy){: .notice} 
+[GradSchool](#5-graduate-school){: .notice} 
 
 
 ---
@@ -31,7 +31,7 @@ Jump To: [Practice & Project](#1-practice--projects){: .notice}
 Improve your technical skills and problem-solving ability through competitions and challenges. These projects make great resume content and help you learn by doing. 
 
 - [**Over the Wire**](https://overthewire.org/wargames/bandit/): Linux command line practice via war games (start with Bandit)
-- [**PicoCTF**](https://picoctf.org): Year-round CTF platform with beginner to advanced cybersecurity challenges
+- [**PicoCTF**](https://picoctf.org): Year-round capture the flag platform with beginner to advanced cybersecurity challenges
 - [**NSA Codebreaker Challenge**](https://nsa-codebreaker.org/home): Hands-on reverse engineering and code analysis challenge (Sept–Jan)
 - [**OWASP Juice Shop**](https://owasp.org/www-project-juice-shop/): Practice web security testing on a vulnerable app
 - Volunteer: Teaching others is a great way to reinforce your own understanding
@@ -88,7 +88,8 @@ Even if its something you don't like, this affirms or validates your concerns an
 
 
 ## 4. Career Planning & Strategy
-Your roadmap to navigating a successful career, from exploring job opportunities in cybersecurity to refining your professional skills and time management. This section provides practical tools t Do you know what you want to do or how to get there? Here's a list of resources to help you plan, strategize, and take the next steps toward your future career.
+Have you figured out what career you want to pursue, or the path you want to take to get there?
+If not, you're not alone. Here's a list of resources to help you plan, strategize, and take the next steps toward your future career.
 
 - **Explore Career Paths**:  
   - [CyberSeek](https://www.cyberseek.org/): Explore job demand, salary data, and skills required in cybersecurity fields.
